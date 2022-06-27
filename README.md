@@ -323,4 +323,5 @@ tips ： 如果使用我们滴滴优秀的开源跨端方案 [chameleon](https:/
 
 <img alt="Apache-2.0 license" src="https://www.apache.org/img/ASF20thAnniversary.jpg" width="128">
 
-DoKit 基于 Apache-2.0 协议进行分发和使用，更多信息参见 [协议文件](LICENSE)。
+DoKit 基于 Apache-2.0 协议进行分发和使用，更多信息参见 [协议文件](LICENSE)。、
+test
